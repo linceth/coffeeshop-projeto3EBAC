@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-    background-color: rgba(165, 42, 42, 0.9);
+    background-color: rgba(165, 42, 42, 0.2);
 }
 
 #cabecalho .nav .nav-link.active {
@@ -24,6 +24,7 @@ body {
 
 .carousel-item {
     width: 100%;
+    height: auto;
 }
 
 .section-title {
